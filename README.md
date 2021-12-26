@@ -1,4 +1,4 @@
-# bencode-nuo
+# bencode parser
 
 [![python: 3.9](https://img.shields.io/badge/python-3.9-b58900.svg)](https://docs.python.org/3/whatsnew/3.9.html)
 [![test: pytest](https://img.shields.io/badge/test-pytest-93a1a1.svg)](https://github.com/pytest-dev/pytest)
